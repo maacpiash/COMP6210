@@ -1,0 +1,1352 @@
+[
+  {
+    "created_at": "Thu Apr 06 15:24:15 +0000 2017",
+    "id_str": "1850006245121695744",
+    "text": "Train people well enough so they can leave, treat them well enough so they don't want to. —@richardbranson",
+    "user": {
+      "id": 224499494501,
+      "name": "user 01",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:16 +0000 2017",
+    "id_str": "8150006245121695744",
+    "text": "On Friday evening we welcomed our new MRes and PhD Students on a walking tour of the City. Some of them are International Students and enjoyed seeing the sights of Sydney!  #cityofsydney #macquarieuniexperience @Macquarie_Uni @mqintl @MQSciEng",
+    "user": {
+      "id": 224499494502,
+      "name": "user 02",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:17 +0000 2017",
+    "id_str": "8510006245121695744",
+    "text": "Excited to publish the BPM Newsletter 1-2018, my first one! Download at https://tinyurl.com/y7ync633  @BPMConf #BPM2018",
+    "user": {
+      "id": 224499494503,
+      "name": "user 03",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:18 +0000 2017",
+    "id_str": "8501006245121695744",
+    "text": "Our social networks  amplify negative more than the positive. Great article  https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/ … cc @webfoundation",
+    "user": {
+      "id": 224499494504,
+      "name": "user 04",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:19 +0000 2017",
+    "id_str": "8500106245121695744",
+    "text": "Welcome to the official Department of Computing @computing_mq Twitter Account.",
+    "user": {
+      "id": 224499494505,
+      "name": "user 05",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:20 +0000 2017",
+    "id_str": "8500016245121695744",
+    "text": "Watch this incredible @TEDTalks with IBM scientist @BmiBruno titled 'How our brains will keep up with #AI' - and stay tuned for the fun ending - Hint: look at his shoes -  #TEDatIBM",
+    "user": {
+      "id": 224499494506,
+      "name": "user 06",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:21 +0000 2017",
+    "id_str": "8500061245121695744",
+    "text": "A man with Down Syndrome, with help from his Dad, is using his million-dollar company to show the world what people with learning disabilities are capable of. Amazing.",
+    "user": {
+      "id": 224499494507,
+      "name": "user 07",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:22 +0000 2017",
+    "id_str": "8500062145121695744",
+    "text": "Be a good person, but don't waste your time trying to prove it",
+    "user": {
+      "id": 224499494508,
+      "name": "user 08",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:23 +0000 2017",
+    "id_str": "8500062415121695744",
+    "text": "Have you started writing your #BPM2018 paper? Only one month left till the abstract submission: http://bpm2018.web.cse.unsw.edu.au/Call_for_Papers.html ",
+    "user": {
+      "id": 224499494509,
+      "name": "user 09",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:24 +0000 2017",
+    "id_str": "8500062451121695744",
+    "text": "The final http://deeplearning.ai  course on Sequence Models is now up on @Coursera! Projects you'll build include Speech trigger word detection, Translation, Emojification, Text generation, ... w/RNN, LSTM, GRU, Word embeddings & Attention. Hope you have fun with it!",
+    "user": {
+      "id": 224499494510,
+      "name": "user 10",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:25 +0000 2017",
+    "id_str": "8500062451121695744",
+    "text": "Many people think that patience is a sign of weakness. I think this is a mistake. It is anger that is a sign of weakness, whereas patience is a sign of strength.",
+    "user": {
+      "id": 224499494511,
+      "name": "user 11",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:26 +0000 2017",
+    "id_str": "8500062451211695744",
+    "text": "15-year olds Bailey Holt and Preston Cope, the two teens killed in the #KentuckySchoolShooting. It was the 11th school shooting of 2018. There are 7 days left in January.",
+    "user": {
+      "id": 224499494512,
+      "name": "user 12",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:27 +0000 2017",
+    "id_str": "8500062451211695744",
+    "text": "Her name is Avgi, and the last time anyone saw her face was in Greece nearly 9,000 years ago",
+    "user": {
+      "id": 224499494513,
+      "name": "user 13",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:28 +0000 2017",
+    "id_str": "8500062451216195744",
+    "text": "What’s past is past, nothing can change that. But the future can be different if we choose to make it so. We have to cultivate a vision of a happier, more peaceful future and make the effort now to bring it about. This is no time for complacency, hope lies in the action we take.",
+    "user": {
+      "id": 224499494514,
+      "name": "user 14",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:29 +0000 2017",
+    "id_str": "8500062451216915744",
+    "text": "Business Process Analytics deals with examining large and varied process related data (i.e. big process data) to uncover hidden patterns, unknown correlations, market trends, customer preferences and other useful insights. ",
+    "user": {
+      "id": 224499494515,
+      "name": "user 15",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:30 +0000 2017",
+    "id_str": "8500062451216951744",
+    "text": "Modern education pays little attention to inner values and yet our basic human nature is compassionate. We need to incorporate compassion and warm-heartedness into the modern education system to make it more holistic.",
+    "user": {
+      "id": 224499494516,
+      "name": "user 16",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:31 +0000 2017",
+    "id_str": "8500062451216957144",
+    "text": "Happiness shouldn’t be a goal, it should be a habit https://virg.in/J3r ",
+    "user": {
+      "id": 224499494517,
+      "name": "user 17",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:32 +0000 2017",
+    "id_str": "8500062451216957414",
+    "text": "The way you perceive and react to the world is a choice. ~David Wallace Choose wisely! 2018 is your chance!",
+    "user": {
+      "id": 224499494518,
+      "name": "user 18",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:33 +0000 2017",
+    "id_str": "8500062451216957441",
+    "text": "Relive the breathtaking 2017 #SydNYE fireworks display - see the highlights of our biggest fireworks display ever",
+    "user": {
+      "id": 224499494519,
+      "name": "user 19",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:34 +0000 2017",
+    "id_str": "2850006245121695744",
+    "text": "The Sydney fireworks always looks amazing, on my bucket list to be there for New Years:) Wishing everyone happiness and good health in 2018!",
+    "user": {
+      "id": 224499494520,
+      "name": "user 20",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:35 +0000 2017",
+    "id_str": "8250006245121695744",
+    "text": "'Measuring programming progress by lines of code is like measuring aircraft building progress by weight.' - Bill Gates",
+    "user": {
+      "id": 224499494521,
+      "name": "user 21",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:36 +0000 2017",
+    "id_str": "8502006245121695744",
+    "text": "Today is the #WinterSolstice, which is also the shortest day of the year! What are solstices & equinoxes, and why do they occur? Get the answers: http://go.nasa.gov/2Bg1aPv ",
+    "user": {
+      "id": 224499494522,
+      "name": "user 22",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:37 +0000 2017",
+    "id_str": "8500206245121695744",
+    "text": "Want your first AI job? Come intern with me! We're running an internship program that will help people who've completed MOOCs start employment in AI. http://landing.ai/ai-internship ",
+    "user": {
+      "id": 224499494523,
+      "name": "user 23",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:38 +0000 2017",
+    "id_str": "8500026245121695744",
+    "text": "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first. - Andy Hunt",
+    "user": {
+      "id": 224499494524,
+      "name": "user 24",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:39 +0000 2017",
+    "id_str": "8500062245121695744",
+    "text": "If you’re looking for a great read to enjoy over the holidays, you can’t go wrong with one of these books.",
+    "user": {
+      "id": 224499494525,
+      "name": "user 25",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:40 +0000 2017",
+    "id_str": "8500062425121695744",
+    "text": "This kind photographer turned kids with illnesses and disabilities into superheroes #SundayMorning",
+    "user": {
+      "id": 224499494526,
+      "name": "user 26",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:41 +0000 2017",
+    "id_str": "8500062451221695744",
+    "text": "Thinking a lot about diversity in AI. Here's my current Stanford group: https://stanfordmlgroup.github.io/#people  We striving to do better and increase diversity. AI needs to welcome everyone!",
+    "user": {
+      "id": 224499494527,
+      "name": "user 27",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:42 +0000 2017",
+    "id_str": "8500062451212695744",
+    "text": "What is important is not so much how long you live as whether you live a meaningful life. This doesn’t mean accumulating money and fame, but being of service to your fellow human beings. It means helping others if you can, but even if you can’t do that, at least not harming them.",
+    "user": {
+      "id": 224499494528,
+      "name": "user 28",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:43 +0000 2017",
+    "id_str": "8500062451216295744",
+    "text": "If you ever wondered about the role of a senior pc member or a general chair at BPM conferences, check the new version of the BPM Conference Guidelines at http://bit.ly/2A2NWG1 ",
+    "user": {
+      "id": 224499494529,
+      "name": "user 29",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:44 +0000 2017",
+    "id_str": "8500062451216925744",
+    "text": "Boston Dynamics new Atlas robot",
+    "user": {
+      "id": 224499494530,
+      "name": "user 30",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:45 +0000 2017",
+    "id_str": "8500062451216952744",
+    "text": "The use of force may control people physically, but it won’t change their hearts and minds. You can only do that on the basis of trust and friendship.",
+    "user": {
+      "id": 224499494531,
+      "name": "user 31",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:46 +0000 2017",
+    "id_str": "8500062451216957244",
+    "text": "CoreDB: a Data Lake Service: http://youtu.be/uCOn67IdrPU?a  via @YouTube",
+    "user": {
+      "id": 224499494532,
+      "name": "user 32",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:47 +0000 2017",
+    "id_str": "8500062451216957424",
+    "text": "Happy Day of Cyrus the Great, the King of Persia - 29 October. Here is a drawing I made almost one year ago when I visited his tomb.",
+    "user": {
+      "id": 224499494533,
+      "name": "user 33",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:48 +0000 2017",
+    "id_str": "8500062451216957442",
+    "text": "Optical Illusion Crosswalk Aims to Slow Down Speedy Iceland Drivers",
+    "user": {
+      "id": 224499494534,
+      "name": "user 34",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:49 +0000 2017",
+    "id_str": "3850006245121695744",
+    "text": "Interested in co-locating your workshop with #BPM2018? Have a look at the call for workshop proposals: http://bit.ly/2gnxUNY ",
+    "user": {
+      "id": 224499494535,
+      "name": "user 35",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:50 +0000 2017",
+    "id_str": "8350006245121695744",
+    "text": "How can a chatbot help with mental health? Great article on Woebot. @willknight",
+    "user": {
+      "id": 224499494536,
+      "name": "user 36",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:51 +0000 2017",
+    "id_str": "8530006245121695744",
+    "text": "Figure out your data structures, and the code will follow. - William Laeder",
+    "user": {
+      "id": 224499494537,
+      "name": "user 37",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:52 +0000 2017",
+    "id_str": "8503006245121695744",
+    "text": "Learning by playing #games is a key way that humans & animals build intelligence. #AI can work the same way https://www.topbots.com/how-games-make-ai-smarter-openai-starcraft-minecraft/ … #ML",
+    "user": {
+      "id": 224499494538,
+      "name": "user 38",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:53 +0000 2017",
+    "id_str": "8500306245121695744",
+    "text": "@Samsung Bought a fridge, 2000$, makes noise like a jackhammer (60 dB) customer service tells me to wait SIX MONTHS. bs. #samsungshameshame",
+    "user": {
+      "id": 224499494539,
+      "name": "user 39",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:54 +0000 2017",
+    "id_str": "8500036245121695744",
+    "text": "Hundreds of millions of students spending years in school while learning virtually nothing. We need to do better!",
+    "user": {
+      "id": 224499494540,
+      "name": "user 40",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:55 +0000 2017",
+    "id_str": "8500063245121695744",
+    "text": "Failure is not falling down, but refusing to get up.~Chinese Proverb",
+    "user": {
+      "id": 224499494541,
+      "name": "user 41",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:56 +0000 2017",
+    "id_str": "8500062453121695744",
+    "text": "Putin says the nation that leads in AI ‘will be the ruler of the world’",
+    "user": {
+      "id": 224499494542,
+      "name": "user 42",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:57 +0000 2017",
+    "id_str": "8500062451216395744",
+    "text": "Putting everyday objects in the hands of great teachers can lead to magical moments in the classroom…",
+    "user": {
+      "id": 224499494543,
+      "name": "user 43",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:58 +0000 2017",
+    "id_str": "8500062451216957344",
+    "text": "You may control people physically by force, but you won’t change their hearts and minds—that requires trust and friendship.",
+    "user": {
+      "id": 224499494544,
+      "name": "user 44",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:24:59 +0000 2017",
+    "id_str": "8500062451216957434",
+    "text": "Congrats to Dr @Jemma_Geoghegan, recipient of a Young Tall Poppy Science Award for her work in evolutionary biology! http://macq.it/2v3fVkQ ",
+    "user": {
+      "id": 224499494545,
+      "name": "user 45",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:25:01 +0000 2017",
+    "id_str": "8500062451216957443",
+    "text": "There is a growing danger we are slowly sleepwalking into war on the Korean Peninsula. My reflections in today's @FT",
+    "user": {
+      "id": 224499494546,
+      "name": "user 46",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:25:02 +0000 2017",
+    "id_str": "5850006245121695744",
+    "text": "One of the most brilliant and chilling things ever written about nuclear war, by the late Roger Fisher.",
+    "user": {
+      "id": 224499494547,
+      "name": "user 47",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:25:03 +0000 2017",
+    "id_str": "8505006245121695744",
+    "text": "There are few things I enjoy more than reading a good book. Here are a few I’ve read and recommend: http://bit.ly/2wJGOLK  #BookLoversDay",
+    "user": {
+      "id": 224499494548,
+      "name": "user 48",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:25:04 +0000 2017",
+    "id_str": "8500062451215695744",
+    "text": "Announcing deeplearning.ai! Deep Learning on Coursera: Master Deep Learning, and build a career in AI!",
+    "user": {
+      "id": 224499494549,
+      "name": "user 49",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  },
+  {
+    "created_at": "Thu Apr 06 15:25:06 +0000 2017",
+    "id_str": "8500062451216957544",
+    "text": "The universe is a pretty big place. If it’s just us, seems like an awful waste of space. ~Carl Sagan",
+    "user": {
+      "id": 224499494550,
+      "name": "user 50",
+      "screen_name": "Twitter User",
+      "location": "Internet",
+      "url": "user URL",
+      "description": "user description"
+    },
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "twt url sample",
+          "unwound": {
+            "url": "url sample",
+            "title": "web page title"
+          }
+        }
+      ],
+      "user_mentions": []
+    }
+  }
+]
